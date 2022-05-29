@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\FS\\Desktop\\Arthur\\C#_Projects\\Web_Api_EF_Core\\Web_Api_EF_Core\\Web_Api_EF_Core.csproj": {}
+    "C:\\Users\\arthu\\OneDrive\\Desktop\\Arthur\\Web_Api_EF_Core\\Web_Api_EF_Core\\Web_Api_EF_Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\FS\\Desktop\\Arthur\\C#_Projects\\Web_Api_EF_Core\\Web_Api_EF_Core\\Web_Api_EF_Core.csproj": {
+    "C:\\Users\\arthu\\OneDrive\\Desktop\\Arthur\\Web_Api_EF_Core\\Web_Api_EF_Core\\Web_Api_EF_Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FS\\Desktop\\Arthur\\C#_Projects\\Web_Api_EF_Core\\Web_Api_EF_Core\\Web_Api_EF_Core.csproj",
+        "projectUniqueName": "C:\\Users\\arthu\\OneDrive\\Desktop\\Arthur\\Web_Api_EF_Core\\Web_Api_EF_Core\\Web_Api_EF_Core.csproj",
         "projectName": "Web_Api_EF_Core",
-        "projectPath": "C:\\Users\\FS\\Desktop\\Arthur\\C#_Projects\\Web_Api_EF_Core\\Web_Api_EF_Core\\Web_Api_EF_Core.csproj",
-        "packagesPath": "C:\\Users\\FS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FS\\Desktop\\Arthur\\C#_Projects\\Web_Api_EF_Core\\Web_Api_EF_Core\\obj\\",
+        "projectPath": "C:\\Users\\arthu\\OneDrive\\Desktop\\Arthur\\Web_Api_EF_Core\\Web_Api_EF_Core\\Web_Api_EF_Core.csproj",
+        "packagesPath": "C:\\Users\\arthu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\arthu\\OneDrive\\Desktop\\Arthur\\Web_Api_EF_Core\\Web_Api_EF_Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\FS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\arthu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -48,13 +48,13 @@
               "target": "Package",
               "version": "[6.0.5, )"
             },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[6.0.5, )"
             },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
+            "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[6.0.5, )"
             },
